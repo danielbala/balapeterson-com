@@ -1,0 +1,15 @@
+.page-wrapper {
+    overflow: hidden;
+}
+p {
+  padding: 10px 0px;
+}
+.resume-list p{
+  line-height: normal;
+}
+.b-box {
+    background: transparent;
+    border-radius: 0px;
+    border: 0px solid #eee;
+    margin-top: 20px;
+  }
